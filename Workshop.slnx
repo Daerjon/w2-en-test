@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PleaseHelp/PleaseHelp.csproj" />
+  <Project Path="Workshop.App/Workshop.App.csproj" />
+  <Project Path="Workshop.Lib/Workshop.Lib.csproj" />
+  <Project Path="Workshop.Test/Workshop.Test.csproj" />
+</Solution>
